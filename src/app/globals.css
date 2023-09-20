@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Set the background color directly to #E8DFE0 */
+body {
+  background-color: #ffffff;
+  color: var(--foreground-rgb);
+}
